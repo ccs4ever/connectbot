@@ -118,8 +118,6 @@
   <string name="hostpref_postlogin_summary">Olyan parancsok amelyek a bejelentkezést követően kerülnek futtatásra</string>
   <string name="hostpref_compression_title">Tömörítés</string>
   <string name="hostpref_compression_summary">Jól jöhet lassú házatok esetén</string>
-  <string name="hostpref_wantsession_title">Parancssor indítása</string>
-  <string name="hostpref_wantsession_summary">Kapcsolja ki, ha csak port átirányitásokat akar</string>
   <string name="hostpref_stayconnected_title">Maradjon csatlakozva</string>
   <string name="hostpref_stayconnected_summary">Újracsatlakozás ha a kapcsolat megszakad</string>
   <string name="hostpref_delkey_title">DEL billentyű</string>
